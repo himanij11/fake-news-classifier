@@ -1,0 +1,7 @@
+# Contribution by each group member in the project
+Himani Naveen Joshi
+• Cleaned and preprocessed all the three datasets, FAKES, ISOT and fn-c1
+• Trained and tested the baseline model on the ISOT dataset
+• Implemented and trained the CNN only, RNN only model and compared the results with baseline model
+• Created poster video
+• Wrote the milestone and final project

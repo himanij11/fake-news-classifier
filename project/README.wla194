@@ -1,0 +1,6 @@
+# Contribution by each group member for the project.
+Wenxiao Li 
+• Implemented and trained the baseline model (CNN + RNN) used in the baseline paper and tested the baseline model on the fnc-1 dataset
+• Performed 5 fold validation and generalization
+• Created poster video
+• Wrote the milestone and final project
