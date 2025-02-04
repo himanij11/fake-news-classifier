@@ -3,6 +3,8 @@ This repository contains the code for the project **CMPT 713 - Natural Language 
 The report for the project is in the `report.pdf`.
 For code documentation, please check `project.ipynb` notebook.
 
+- The `project` folder contains `Data_Preprocessing` , `model`, `results` directory. For running each directory, check the `README.md` files in each directory.
+
 - The `Data_Preprocessing` folder contains the dataset and the ipynb notebook for preprocessing the data.
 
 - The `model` folder contains all the folder used for training and testing.
